@@ -14,7 +14,8 @@
             android:id="@+id/llayout"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:orientation="vertical" >
+            android:orientation="vertical"
+            android:background="#ffffff" >
             <Button
             android:id="@+id/save"
             android:text="Save"
